@@ -17,7 +17,7 @@ Power BI(Visualization)
 
 ## About Project 💻
 
-[FIFA 2023 Data Analysis] This project showcases a data pipeline using Power Query for data cleaning and Power BI for visualization. It features breakdowns of player demographics by body type, club representation, and preferred foot. Interactive visuals include a world map of player nationalities, a combo chart for top 10 highest-paid players with their ratings. This project demonstrates my ability to use ## Power query and ## Power BI effectively.
+[FIFA 2023 Data Analysis] This project showcases a data pipeline using Power Query for data cleaning and Power BI for visualization. It features breakdowns of player demographics by body type, club representation, and preferred foot. Interactive visuals include a world map of player nationalities, a combo chart for top 10 highest-paid players with their ratings. This project demonstrates my ability to use ###[Power query] and ###[Power BI] effectively.
 
 
 ## Get in Touch 📬
