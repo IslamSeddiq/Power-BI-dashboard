@@ -12,11 +12,11 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 ## My Skills 🧠
 
 Power Query(Data cleaning)
-Power BI
+Power BI(Visualization)
 
 ## About Project 💻
 
-[FIFA 2023 Data Analysis] This project aims to study employees payroll data in the city of San Francisco so that it can understand the contributors, the factors affecting money, and identify any abnormal choices it may see or opportunities for improvement. This project demonstrates my ability to use Python effectively.
+[FIFA 2023 Data Analysis] This project showcases a data pipeline using Power Query for data cleaning and Power BI for visualization. It features breakdowns of player demographics by body type, club representation, and preferred foot. Interactive visuals include a world map of player nationalities, a combo chart for top 10 highest-paid players with their ratings. This project demonstrates my ability to use ### Power query and ### Power BI effectively.
 
 
 ## Get in Touch 📬
